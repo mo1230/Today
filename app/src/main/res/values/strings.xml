@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Today</string>
+    <string name="main_header_yangli">公立2020年3月3日 星期二（阳历）</string>
+    <string name="mainHeaderDay">03</string>
+    <string name="week">星期二</string>
+    <string name="nongli">农历鼠年三月三日</string>
+    <string name="baiji">彭祖百忌：</string>
+    <string name="wuxing">五行：</string>
+    <string name="chongsha">冲煞：</string>
+    <string name="jishen">吉神趋益：</string>
+    <string name="xiongshen">凶神趋忌：</string>
+    <string name="yi">宜：</string>
+    <string name="ji">忌：</string>
+    <string name="lishi">历史上的这一天</string>
+    <string name="more">点击加载更多</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
